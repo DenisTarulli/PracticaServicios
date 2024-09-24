@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "169454575552",
+    "project_id": "practicaservicios-d17b0",
+    "storage_bucket": "practicaservicios-d17b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169454575552:android:74c8f4f77861cdd7677225",
+        "android_client_info": {
+          "package_name": "com.JefilGames.PracticaServicios"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB67BimP3k2dvaE1vM3UliY5YOemqu8I64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
